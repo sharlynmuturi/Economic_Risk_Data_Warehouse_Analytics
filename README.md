@@ -22,8 +22,8 @@ This project follows a **Medallion Architecture**:
 ### Bronze Layer (Raw Data)
 
 *   Source data ingested from:
-    *   World Bank (GDP, Inflation, Unemployment, Current Account)
-    *   IMF (Government Debt)
+    *   World Bank ([GDP](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG), [Inflation](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG), [Unemployment](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS), [Current Account](https://data.worldbank.org/indicator/BN.CAB.XOKA.GD.ZS))
+    *   IMF ([Government Debt](https://data.imf.org/en/datasets/IMF.RES:WEO))
 *   Stored in raw, untransformed format
 
 ### Silver Layer (Data Cleaning & Standardization)

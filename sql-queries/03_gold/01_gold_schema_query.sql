@@ -2,8 +2,7 @@
 DDL Script: creates views for the Gold layer (final dimension) in the data warehouse. 
 
 TABLE 1: COUNTRY YEAR FACT TABLE
-    - This is the central analytical table in the Gold layer.
-    - Each row represents One country and One year
+    -This is the central analytical table in the Gold layer. Each row represents One country and One year
     - It stores key macroeconomic indicators in a structured form suitable for time-series analysis and dashboarding.
     - Silver layer data is in "long format" (indicator-value pairs). This converts it into a "wide format" fact table
 */
