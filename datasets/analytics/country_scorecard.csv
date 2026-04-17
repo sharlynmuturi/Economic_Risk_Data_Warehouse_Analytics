@@ -1,0 +1,96 @@
+﻿country,year,economic_health_score,stability_score,economic_label,stability_label
+Brazil,2005,1.120746222,100,Moderate Economy,Stable
+Brazil,2006,-2.624961394,82.57946279,Weak Economy,Stable
+Brazil,2007,-1.135258913,86.12443187,Weak Economy,Stable
+Brazil,2008,-1.265286191,87.07872701,Weak Economy,Stable
+Brazil,2009,-3.246752982,86.0534061,Weak Economy,Stable
+Brazil,2010,-14.09127792,85.6929652,Weak Economy,Stable
+Brazil,2011,-14.6414973,86.5412731,Weak Economy,Stable
+Brazil,2012,-15.15437833,85.78555038,Weak Economy,Stable
+Brazil,2013,-14.12576189,87.34550086,Weak Economy,Stable
+Brazil,2014,-15.77262762,86.72468933,Weak Economy,Stable
+Brazil,2015,-16.68217522,86.91595985,Weak Economy,Stable
+Brazil,2016,-17.21385112,82.43209898,Weak Economy,Stable
+Brazil,2017,-16.50262454,79.68085648,Weak Economy,Stable
+Brazil,2018,-15.1819913,83.76162665,Weak Economy,Stable
+Brazil,2019,-15.71134782,84.00614972,Weak Economy,Stable
+Brazil,2020,-19.22346082,84.33102379,Weak Economy,Stable
+Brazil,2021,-17.88409207,83.09123196,Weak Economy,Stable
+Brazil,2022,-20.44298893,78.54034024,Weak Economy,Stable
+Brazil,2023,-19.98459185,81.48889391,Weak Economy,Stable
+India,2005,2.773200717,100,Moderate Economy,Stable
+India,2006,0.084237676,88.20265638,Moderate Economy,Stable
+India,2007,-0.366269402,86.65047662,Weak Economy,Stable
+India,2008,-2.084731951,86.06511864,Weak Economy,Stable
+India,2009,-0.825442318,84.02173295,Weak Economy,Stable
+India,2010,-17.58691594,81.48164706,Weak Economy,Stable
+India,2011,-18.04976731,80.37961008,Weak Economy,Stable
+India,2012,-16.85767303,83.47920664,Weak Economy,Stable
+India,2013,-16.44011214,82.87600309,Weak Economy,Stable
+India,2014,-15.87649603,82.30412153,Weak Economy,Stable
+India,2015,-13.98344252,85.67834328,Weak Economy,Stable
+India,2016,-13.73873776,87.46402656,Weak Economy,Stable
+India,2017,-14.14320907,87.44078366,Weak Economy,Stable
+India,2018,-13.9168867,89.04582663,Weak Economy,Stable
+India,2019,-14.87416236,88.40917353,Weak Economy,Stable
+India,2020,-18.34660479,89.76049427,Weak Economy,Stable
+India,2021,-13.86107998,85.51756322,Weak Economy,Stable
+India,2022,-14.11320375,88.48859253,Weak Economy,Stable
+India,2023,-13.6651426,88.47896586,Weak Economy,Stable
+Kenya,2005,2.067333128,100,Moderate Economy,Stable
+Kenya,2006,-0.481932667,86.94822164,Weak Economy,Stable
+Kenya,2007,-1.161241423,82.87326579,Weak Economy,Stable
+Kenya,2008,-2.530977085,87.59911977,Weak Economy,Stable
+Kenya,2009,-4.778284392,71.00918336,Weak Economy,Stable
+Kenya,2010,-7.212759424,87.94987408,Weak Economy,Stable
+Kenya,2011,-7.111340636,93.24561111,Weak Economy,Stable
+Kenya,2012,-8.719210395,83.2785087,Weak Economy,Stable
+Kenya,2013,-8.066607069,87.94422997,Weak Economy,Stable
+Kenya,2014,-7.269159863,91.52050643,Weak Economy,Stable
+Kenya,2015,-7.667678604,90.35484501,Weak Economy,Stable
+Kenya,2016,-7.669599885,90.65584571,Weak Economy,Stable
+Kenya,2017,-8.128614547,90.94575046,Weak Economy,Stable
+Kenya,2018,-8.461048693,88.45235032,Weak Economy,Stable
+Kenya,2019,-8.475205693,91.02619353,Weak Economy,Stable
+Kenya,2020,-11.56329581,89.74636204,Weak Economy,Stable
+Kenya,2021,-9.9074111,88.98183792,Weak Economy,Stable
+Kenya,2022,-11.71704384,88.19906396,Weak Economy,Stable
+Kenya,2023,-12.21102519,86.77513732,Weak Economy,Stable
+Nigeria,2005,2.253480784,100,Moderate Economy,Stable
+Nigeria,2006,-2.383648863,78.40950663,Weak Economy,Stable
+Nigeria,2007,-0.275398678,88.02577848,Weak Economy,Stable
+Nigeria,2008,0.341463879,90.81799203,Moderate Economy,Stable
+Nigeria,2009,-0.451291249,84.62692483,Weak Economy,Stable
+Nigeria,2010,-3.336335975,83.69917227,Weak Economy,Stable
+Nigeria,2011,-3.161836957,82.51594786,Weak Economy,Stable
+Nigeria,2012,-2.780006027,85.40386281,Weak Economy,Stable
+Nigeria,2013,-2.083530872,84.0147587,Weak Economy,Stable
+Nigeria,2014,-1.642252147,87.79348162,Weak Economy,Stable
+Nigeria,2015,-2.990039523,88.05258912,Weak Economy,Stable
+Nigeria,2016,-5.876891128,86.85656502,Weak Economy,Stable
+Nigeria,2017,-6.478452211,79.80418736,Weak Economy,Stable
+Nigeria,2018,-6.432588172,78.66773379,Weak Economy,Stable
+Nigeria,2019,-6.066321057,82.83589348,Weak Economy,Stable
+Nigeria,2020,-8.79589891,83.39757766,Weak Economy,Stable
+Nigeria,2021,-7.164666297,81.03997657,Weak Economy,Stable
+Nigeria,2022,-6.830978821,77.64315428,Weak Economy,Stable
+Nigeria,2023,-7.637191609,77.32581222,Weak Economy,Stable
+South Africa,2005,1.846968191,100,Moderate Economy,Stable
+South Africa,2006,-4.069238356,75.46514692,Weak Economy,Stable
+South Africa,2007,-4.348615612,74.45209235,Weak Economy,Stable
+South Africa,2008,-5.68369707,71.56218785,Weak Economy,Stable
+South Africa,2009,-8.122078109,67.68301544,Weak Economy,Moderate
+South Africa,2010,-12.19186254,69.23890476,Weak Economy,Moderate
+South Africa,2011,-11.48125441,71.24950444,Weak Economy,Stable
+South Africa,2012,-11.18643934,70.36014661,Weak Economy,Stable
+South Africa,2013,-11.26843048,69.53502861,Weak Economy,Moderate
+South Africa,2014,-12.20044456,69.6588309,Weak Economy,Moderate
+South Africa,2015,-13.22341412,68.97717047,Weak Economy,Moderate
+South Africa,2016,-13.90679488,70.33230905,Weak Economy,Stable
+South Africa,2017,-15.03090025,66.86109158,Weak Economy,Moderate
+South Africa,2018,-15.32231296,67.77881345,Weak Economy,Moderate
+South Africa,2019,-16.18809708,68.58412735,Weak Economy,Moderate
+South Africa,2020,-19.13569135,67.42914925,Weak Economy,Moderate
+South Africa,2021,-15.67700064,67.55061168,Weak Economy,Moderate
+South Africa,2022,-18.42275127,61.37425455,Weak Economy,Moderate
+South Africa,2023,-19.75003795,59.69212728,Weak Economy,Moderate

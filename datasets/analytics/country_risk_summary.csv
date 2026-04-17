@@ -1,0 +1,6 @@
+﻿country,avg_gdp_growth,avg_inflation,avg_unemployment,avg_debt,economic_health_score,risk_category,growth_profile,debt_profile
+Brazil,2.125516143,5.793322877,9.863666667,67.37728571,-12.61916737,HIGH RISK,Stable Growth,Moderate Debt
+India,6.403705595,6.778703193,7.346611111,71.78357143,-11.36170733,HIGH RISK,High Growth,Moderate Debt
+Kenya,4.790227878,8.885782938,3.475,41.17635714,-6.898163326,HIGH RISK,Stable Growth,Low Debt
+Nigeria,3.830215522,12.37083807,4.244111111,12.01064286,-3.778546518,HIGH RISK,Stable Growth,Low Debt
+South Africa,1.942797698,5.286860415,25.94733333,36.60214286,-11.86116278,HIGH RISK,Low Growth,Low Debt

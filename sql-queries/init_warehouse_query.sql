@@ -1,0 +1,24 @@
+USE master;
+GO
+
+IF EXISTS (SELECT 1 FROM sys.databases WHERE name = 'EconomicRiskDW')
+BEGIN
+    ALTER DATABASE EconomicRiskDW SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+    DROP DATABASE EconomicRiskDW;
+END;
+GO
+
+CREATE DATABASE EconomicRiskDW;
+GO
+
+USE EconomicRiskDW;
+GO
+
+CREATE SCHEMA bronze;
+GO
+
+CREATE SCHEMA silver;
+GO
+
+CREATE SCHEMA gold;
+GO
